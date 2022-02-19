@@ -13,3 +13,5 @@
 <a href="https://github.com/Zensos">
   <img height="220" align="center" src="https://github-readme-stats.vercel.app/api?username=Serresz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
+
+## My I'dol : Zensos
